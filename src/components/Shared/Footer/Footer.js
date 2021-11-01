@@ -95,7 +95,7 @@ const Footer = () => {
       </div>
       <div className="lowerFooterDiv mt-4">
         <p className="text-center text-white">
-          <small>Copyright @2021. All Rights Reserved By Marriott</small>
+          <small>Copyright @2021. All Rights Reserved By Royel</small>
         </p>
       </div>
     </div>
